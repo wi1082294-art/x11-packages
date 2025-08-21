@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash#!/usr#!/usr/bin/env bash
 ##
 ##  Script for listing versions of local packages.
 ##
