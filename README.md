@@ -1,3 +1,4 @@
+https://github.com/wi1082294-art/x11-packages/blob/0c3beca206e5d237eaa61cddacd0e2fed9fa176f/.gitmodules#L1y
 # ARCHIVED
 
 Packages from x11-repo are now maintained along with the main repo in github.com/termux/termux-packages in a git monorepo
